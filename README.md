@@ -1,4 +1,4 @@
-﻿Matlab codes from: Metacommunity robustness to invasion in a pollinator-plant-consumer tripartite network
+﻿Matlab codes from: A positive complexity-stability relationship emerges in pollinator-plant-consumer tripartite networks disturbed by plant invasion
 
 This dataset includes four documents of Matlab codes of figures in main text.
 
